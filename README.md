@@ -61,7 +61,7 @@ if (!document.getElementById("select-separator-styles")) {
 ## Page.Load
 1. Optionally assign data from a *Connector* to the control
 2. Drag a *List* into the event handler
-3. Add values to the *List* that correspond with the values of the options under which a separator must be shown
+3. Add values to the *List* that correspond with the **values** of the options under which a separator must be shown (not the text)
 4. Drag the "DropDownSeparators" into an event handler (below all actions that assign the data)
    1. DropDownClass: Provide the unique classname assigned to the dropdown above (e.g. separated-dropdown)
    2. LastValues: Select the *List* of dropdown values
