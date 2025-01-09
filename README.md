@@ -1,4 +1,4 @@
-# DropDown Seperators <!-- omit in toc -->
+# DropDown Separators <!-- omit in toc -->
 
 Make finding an option easier by splitting DropDown options into groups with a separator (hr)
 
